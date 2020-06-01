@@ -8,7 +8,7 @@ end
 
 def monopoly
   new_hash = {}
-	monopoly = {railroads:}
+	monopoly = {railroads: new_hash}
 
 end
 
