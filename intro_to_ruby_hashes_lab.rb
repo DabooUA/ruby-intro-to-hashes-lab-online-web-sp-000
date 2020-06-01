@@ -17,8 +17,8 @@ def monopoly_with_second_tier
   rent_hash = {}
 	monopoly = {
     railroads: {pieces: 4},
-    names: {name_hash},
-    rent_in_dollars: {new_hash}
+    names: name_hash,
+    rent_in_dollars: rent_hash
 }
 
 end
